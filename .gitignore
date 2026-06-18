@@ -42,3 +42,8 @@ coverage/
 
 # Local media conversions (scripts/convert-for-x.sh)
 *-x.mp4
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
